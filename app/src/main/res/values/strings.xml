@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+
+    <!-- Simple text Strings -->
+    <string name="github">Feel free to reach out if you’d like to connect or collaborate on a project! You can contact me via the form below or through my <a href ="https://github.com/Saurabh19F">GitHub</a> and <a href ="https://www.linkedin.com/in/saurabh19f/">LinkedIn</a> profile.
+    </string>
+
+
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </string>
+    <string name="job_name">Graphic Designer &amp; Programmer</string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+    <string name="name">Saurabh\nKumar</string>
+    <string name="current_job_post">Current Job Post</string>
+    <string name="diploma">Computer Science Diploma</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saurabh_kumar">Saurabh Kumar</string>
+    <string name="i_m_currently_pursuing_my_mca_at_galgotias_university_and_have_completed_a_full_stack_development_program_with_mycaptain_my_journey_in_web_development_has_been_driven_by_a_love_for_problem_solving_and_creative_design_i_thrive_on_continuous_learning_and_enjoy_experimenting_with_new_technologies_to_enhance_my_projects_apart_from_coding_i_m_passionate_about_traveling_cooking_photography_and_music_which_often_influence_my_creative_process_i_love_observing_the_world_around_me_and_finding_inspiration_in_everything_i_do_both_professionally_and_personally">I\'m currently pursuing my MCA at Galgotias University and have completed a Full-Stack Development program with MyCaptain. My journey in web development has been driven by a love for problem-solving and creative design. I thrive on continuous learning and enjoy experimenting with new technologies to enhance my projects. Apart from coding, I’m passionate about traveling, cooking, photography, and music, which often influence my creative process. I love observing the world around me and finding inspiration in everything I do, both professionally and personally.</string>
+
+
+</resources>
