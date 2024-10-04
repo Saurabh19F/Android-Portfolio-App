@@ -53,7 +53,6 @@ This portfolio app displays important details about my professional profile, inc
 
 1. **Clone this repository**:
    ```bash
-   git clone 
    https://github.com/Saurabh19F/Android-Portfolio-App.git
    ```
 
@@ -76,9 +75,9 @@ This portfolio app displays important details about my professional profile, inc
 ## Contact Information
 For any inquiries, feel free to reach out:
 
-- **Email**: [your.@example.com](mailto:your.email@example.com)
+- **Email**: Saurabhke4@gmail.com 
 - **LinkedIn**: https://www.linkedin.com/in/saurabh19f/
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: https://github.com/Saurabh19F
 
 ---
 
