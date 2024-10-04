@@ -15,7 +15,7 @@ This is a **Portfolio Application** built using **Java** in **Android Studio**. 
 ---
 
 ## Overview
-This portfolio app displays important details about my professional profile, including an **About Me** section, a list of **Experience **, past **Teams**, and a **Projects** section. The clean, intuitive interface helps users navigate smoothly through the various sections.
+This portfolio app displays important details about my professional profile, including an **About Me** section, a list of **Experience**, past **Teams**, and a **Projects** section. The clean, intuitive interface helps users navigate smoothly through the various sections.
 
 ---
 
