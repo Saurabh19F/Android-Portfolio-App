@@ -15,7 +15,7 @@ This is a **Portfolio Application** built using **Java** in **Android Studio**. 
 ---
 
 ## Overview
-This portfolio app displays important details about my professional profile, including an **About Me** section, a list of **Experience**, past **Teams**, and a **Projects** section. The clean, intuitive interface helps users navigate smoothly through the various sections.
+This portfolio app displays important details about my professional profile, including an **About Me** section, a list of **Experience**, **Teams**, and a **Projects** section. The clean, intuitive interface helps users navigate smoothly through the various sections.
 
 ---
 
@@ -23,7 +23,7 @@ This portfolio app displays important details about my professional profile, inc
 - **Multi-activity structure**: Includes Home [Contact], Experience, Team and Projects activities.
 - **Project Display**: Each project includes descriptions, images, and GitHub links.
 - **Dynamic Content**: Uses `RecyclerView` to display project details and skills in a scrollable, clean format.
-- **Contact Form**: A simple form for users to reach out directly from the app.
+- **Contact Link**: A simple link for users to reach out directly from the app.
 
 ---
 
