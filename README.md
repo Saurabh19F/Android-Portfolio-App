@@ -66,9 +66,9 @@ This portfolio app displays important details about my professional profile, inc
 ---
 
 ## Usage
-- Navigate through the sections: Home, Skills, Projects, and Contact.
+- Navigate through the sections: Home [Contact], Experience, Team and Projects.
 - Browse the **Projects** section for descriptions of each project, with images and GitHub links.
-- Contact me directly via the **Contact** form.
+- Contact me directly via the **Contact** Link🔗.
 
 ---
 
